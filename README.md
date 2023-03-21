@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **learning how to use typescript to the best of its ability.**
 
-- 👨‍💻 All of my projects are available at [https://michaelkleyman.vercel.app/](https://michaelkleyman.vercel.app/)
+- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelkleyman.vercel.app/)
 
 - 💬 Ask me about **React, and Data structures and algorithms.**
 
