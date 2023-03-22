@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate frontend developer from New York City</h3>
+<h3 align="center">A passionate software developer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 
