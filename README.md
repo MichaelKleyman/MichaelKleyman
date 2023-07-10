@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate software developer from New York City</h3>
+<h3 align="center">A passionate software engineer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **fun and creative projects that solve real world problems.**
 
-- 🤝 I’m looking for help with **learning how to use typescript to the best of its ability.**
+- 🤝 I’m looking for ways to **optimally and effeciently use typescript to the best of its ability.**
 
 - 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelkleyman.vercel.app/)
 
-- 💬 Ask me about **React, and Data structures and algorithms.**
+- 💬 Ask me about **NextJS, Python, Typescript, and Data structures and algorithms.**
 
 - 📫 How to reach me **michaelkleyman99@gmail.com**
 
