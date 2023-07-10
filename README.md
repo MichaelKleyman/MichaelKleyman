@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an application to abstract unnecessary paperwork in Physical Therapy Clinics.**
 
-- 🌱 I’m currently learning **Typescript and NextJS 13.**
+- 🌱 I’m currently working with **Python, Typescript and NextJS 13.**
 
 - 👯 I’m looking to collaborate on **fun and creative projects that solve real world problems.**
 
