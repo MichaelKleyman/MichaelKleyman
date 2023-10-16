@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 
-- 🔭 I’m currently working on **an application to abstract unnecessary paperwork, and help with appointment scheduling and exercise tracking in Physical Therapy Clinics.**
+- 🔭 I built and am consistently upgrading and maintaining **an application/EHR system to abstract unnecessary paperwork, and help with appointment scheduling and exercise tracking in a Physical Therapy Clinic with multiple locations.**
 
 - 🌱 I’m currently working with **Python, Typescript, AWS, and NextJS 13.**
 
