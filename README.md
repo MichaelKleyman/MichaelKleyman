@@ -7,15 +7,13 @@
 
 - 🔭 I built and am consistently upgrading and maintaining **an application/EHR system to abstract unnecessary paperwork, and help with appointment scheduling and exercise tracking in a Physical Therapy Clinic with multiple locations.**
 
-- 🌱 I’m currently working with **Python, Typescript, AWS, and NextJS 13.**
-
 - 👯 I’m looking to collaborate on **fun and creative projects that solve real world problems.**
 
 - 🤝 I’m looking for ways to **optimally and effeciently use typescript to the best of its ability.**
 
 - 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelkleyman.vercel.app/)
 
-- 💬 Ask me about **NextJS, Python, Typescript, and Data structures and algorithms.**
+- 💬 Ask me about **React, Typescript, React Query, Kubernetes and Data structures and algorithms.**
 
 - 📫 How to reach me **michaelkleyman99@gmail.com**
 
