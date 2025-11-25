@@ -1,25 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate software engineer from New York City</h3>
+<h3 align="center">Software engineer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
-
-- 🔭 I built and am consistently upgrading and maintaining **an application/EHR system to abstract unnecessary paperwork, and help with appointment scheduling and exercise tracking in a Physical Therapy Clinic with multiple locations.**
-
-- 👯 I’m looking to collaborate on **fun and creative projects that solve real world problems.**
-
-- 🤝 I’m looking for ways to **optimally and effeciently use typescript to the best of its ability.**
-
-- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://michaelkleyman.vercel.app/)
-
-- 💬 Ask me about **React, Typescript, React Query, Kubernetes and Data structures and algorithms.**
-
 - 📫 How to reach me **michaelkleyman99@gmail.com**
-
-- 📄 Know about my experiences [[[https://docs.google.com/document/d/1WhQv3Xhxm1Rc2wUxQ4rffwb4kWmMGXQmd0VDW8-cYFM/edit?usp=sharing](https://docs.google.com/document/d/1Bg-OsFlIsfjEehn9ei-V-s9hY5CmdnkD/edit)]
-
-- ⚡ Fun fact **I love skydiving, and running!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
